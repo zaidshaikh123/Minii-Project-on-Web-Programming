@@ -1,4 +1,4 @@
-# Web-Developement
+# Mini-Project for Web Programming
 ###Gaming Spot Arena :-
 It is a Gaming Hub Website through which users can gather information about the games they want to play and the latest updates on those games.
 
